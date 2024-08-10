@@ -5,6 +5,7 @@ package au.edu.swin.sdmd.w02_kotlindemo
 
 fun main() {
     greetStudent( "Hello", "mate")
+    greetStudent(name = "Liam")
 }
 
 
